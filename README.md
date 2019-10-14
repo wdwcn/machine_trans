@@ -7,7 +7,13 @@
           
           第三步：python inference.py 对训练好的模型进行推理验证
 
+
+
 测试结果如图：
+
+
 ![Image text](https://raw.githubusercontent.com/wdwcn/machine_trans/master/pics/inference.png)
+
+
 补充：seq2seq.ini 为模型的配置文件。
 
